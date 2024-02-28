@@ -1,0 +1,14 @@
+C:\Users\Goshen\Documents\CSM\CSS123\FirstConsoleApp\GoshenJimenez.Calculator\GoshenJimenez.Calculator.App\bin\Debug\net8.0\GoshenJimenez.Calculator.App.exe
+C:\Users\Goshen\Documents\CSM\CSS123\FirstConsoleApp\GoshenJimenez.Calculator\GoshenJimenez.Calculator.App\bin\Debug\net8.0\GoshenJimenez.Calculator.App.deps.json
+C:\Users\Goshen\Documents\CSM\CSS123\FirstConsoleApp\GoshenJimenez.Calculator\GoshenJimenez.Calculator.App\bin\Debug\net8.0\GoshenJimenez.Calculator.App.runtimeconfig.json
+C:\Users\Goshen\Documents\CSM\CSS123\FirstConsoleApp\GoshenJimenez.Calculator\GoshenJimenez.Calculator.App\bin\Debug\net8.0\GoshenJimenez.Calculator.App.dll
+C:\Users\Goshen\Documents\CSM\CSS123\FirstConsoleApp\GoshenJimenez.Calculator\GoshenJimenez.Calculator.App\bin\Debug\net8.0\GoshenJimenez.Calculator.App.pdb
+C:\Users\Goshen\Documents\CSM\CSS123\FirstConsoleApp\GoshenJimenez.Calculator\GoshenJimenez.Calculator.App\obj\Debug\net8.0\GoshenJimenez.Calculator.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goshen\Documents\CSM\CSS123\FirstConsoleApp\GoshenJimenez.Calculator\GoshenJimenez.Calculator.App\obj\Debug\net8.0\GoshenJimenez.Calculator.App.AssemblyInfoInputs.cache
+C:\Users\Goshen\Documents\CSM\CSS123\FirstConsoleApp\GoshenJimenez.Calculator\GoshenJimenez.Calculator.App\obj\Debug\net8.0\GoshenJimenez.Calculator.App.AssemblyInfo.cs
+C:\Users\Goshen\Documents\CSM\CSS123\FirstConsoleApp\GoshenJimenez.Calculator\GoshenJimenez.Calculator.App\obj\Debug\net8.0\GoshenJimenez.Calculator.App.csproj.CoreCompileInputs.cache
+C:\Users\Goshen\Documents\CSM\CSS123\FirstConsoleApp\GoshenJimenez.Calculator\GoshenJimenez.Calculator.App\obj\Debug\net8.0\GoshenJimenez.Calculator.App.dll
+C:\Users\Goshen\Documents\CSM\CSS123\FirstConsoleApp\GoshenJimenez.Calculator\GoshenJimenez.Calculator.App\obj\Debug\net8.0\refint\GoshenJimenez.Calculator.App.dll
+C:\Users\Goshen\Documents\CSM\CSS123\FirstConsoleApp\GoshenJimenez.Calculator\GoshenJimenez.Calculator.App\obj\Debug\net8.0\GoshenJimenez.Calculator.App.pdb
+C:\Users\Goshen\Documents\CSM\CSS123\FirstConsoleApp\GoshenJimenez.Calculator\GoshenJimenez.Calculator.App\obj\Debug\net8.0\GoshenJimenez.Calculator.App.genruntimeconfig.cache
+C:\Users\Goshen\Documents\CSM\CSS123\FirstConsoleApp\GoshenJimenez.Calculator\GoshenJimenez.Calculator.App\obj\Debug\net8.0\ref\GoshenJimenez.Calculator.App.dll
